@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bushraalotaibi&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bushraalotaibi&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-📫 Connect With Me! <br>
+## 📫 Connect With Me! <br>
 💼 LinkedIn: [https://www.linkedin.com/in/bushra511] <br>
 📧 Email: bushramalotaibi1@gmail.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
