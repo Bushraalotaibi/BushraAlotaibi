@@ -11,5 +11,4 @@
 ## 📫 Connect With Me! <br>
 💼 LinkedIn: https://www.linkedin.com/in/bushra511 <br>
 📧 Email: bushramalotaibi1@gmail.com <br>
-🔗 X: https://x.com/lxsb7?s=21
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
