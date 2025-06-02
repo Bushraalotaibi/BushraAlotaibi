@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bushraalotaibi&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 📫 Connect With Me!
-💼 LinkedIn: [https://www.linkedin.com/in/mohamed-aldughayyim/](https://www.linkedin.com/in/bushra511?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+💼 LinkedIn: [https://www.linkedin.com/in/bushra511] <br>
 📧 Email: bushramalotaibi1@gmail.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
