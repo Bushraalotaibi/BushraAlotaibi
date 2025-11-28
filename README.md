@@ -29,8 +29,9 @@
 💼 LinkedIn: https://www.linkedin.com/in/bushra511 <br>
 📧 Email: bushramalotaibi1@gmail.com 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BushraAlotaibi&style=flat-square&color=red" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BushraAlotaibi&label=Visitors&color=red&style=for-the-badge" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
