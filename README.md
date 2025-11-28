@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Bushra+Alotaibi+%F0%9F%91%8B;Cybersecurity+%E2%80%A2+Penetration+Tester+%
-
+## Hi there It's Bushra Alotaibi!👋
 🎓 Senior Computer Science Student at University of Hail<br>🔐 Interested in Offensive Security, Pentesting, networking and progtamming<br>💼 Holder of eJPTv2<br>🚀 Passionate about Cybersecurity
 
 # 💻 Tech Stack:
