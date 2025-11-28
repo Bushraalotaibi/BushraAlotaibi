@@ -30,7 +30,8 @@
 📧 Email: bushramalotaibi1@gmail.com 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BushraAlotaibi&label=Profile%20Views&color=grey&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=BushraAlotaibi&label=Visitors&color=0aff0a&style=plastic" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
