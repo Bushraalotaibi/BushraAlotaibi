@@ -22,8 +22,8 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bushraalotaibi&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bushraalotaibi&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BushraAlotaibi&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BushraAlotaibi&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact
 
 ## 📫 Connect With Me!
 💼 LinkedIn: https://www.linkedin.com/in/bushra511 <br>
