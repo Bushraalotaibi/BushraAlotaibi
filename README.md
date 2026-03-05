@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Hi+there%2C+It's+Bushra+Alotaibi+%F0%9F%91%8B;Cybersecurity+%E2%80%A2+Penetration+Tester+%E2%80%A2+Red+Team" alt="Typing SVG" />
 </p>
 
-🎓 Senior Computer Science Student at University of Hail<br>🔐 Interested in Offensive Security, Pentesting, networking and progtamming<br>💼 Holder of eJPTv2<br>🚀 Passionate about Cybersecurity
+🎓 Senior Computer Science Student at University of Hail<br> Interested in SOC & Digital Forensics<br>Passionate about Cybersecurity
 
 # Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
